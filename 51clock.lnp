@@ -1,0 +1,5 @@
+"STARTUP.obj",
+"main.obj",
+"ds1302.obj" 
+TO "51clock" 
+RAMSIZE(256) 
